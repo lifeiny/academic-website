@@ -1,16 +1,11 @@
 source "https://rubygems.org"
 
-# 固定 Ruby 版本，Vercel 会据此安装
-ruby "3.2.2"
-
-# 固定 Jekyll 到 4.3.3（或以上小版本），避免 logger 在 Ruby 3.3 的兼容性坑
+# 不要固定 ruby 版本，交给 Vercel 使用它的 3.3
 gem "jekyll", "~> 4.3.3"
-
-# 主题（保持你现有的）
 gem "minima", "~> 2.5"
 
-# Jekyll 常用依赖（本地与云端都稳）
 gem "webrick"
+gem "logger", "~> 1.5"   # 关键：在 Ruby 3.3 上避免 Jekyll/Logger 报错
 
 group :jekyll_plugins do
   gem "jekyll-feed", "~> 0.12"
