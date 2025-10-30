@@ -14,7 +14,7 @@ projects:
 
   - title: Volumetric Mapping with Panoptic Refinement via Kernel Density Estimation for Mobile Robots
     system-name: 
-    gif: assets/img/demo_refined_mapping.gif
+    gif: assets/img/test.jpg
     conference: IROS 2024 (Abu Dhabi, United Arab Emirates) 
     conference-web: https://iros2024-abudhabi.org/
     status:
@@ -32,7 +32,7 @@ projects:
 
   - title: Robust RGB-D SLAM in Dynamic Environments with 3D Semantic Geometry Voting
     system-name: V3D-SLAM
-    gif: assets/img/demo_v3d_slam.gif
+    gif: assets/img/dtest.jpg
     conference: IROS 2024 (Abu Dhabi, United Arab Emirates)
     conference-web: https://iros2024-abudhabi.org/
     status:
@@ -50,7 +50,7 @@ projects:
 
   - title: Real-Time 3D Semantic Scene Perception for Egocentric Robots with Binocular Vision
     system-name: 
-    gif: assets/img/demo_scene_perception.gif
+    gif: assets/img/test.jpg
     conference: arXiv (02/19/2024)
     conference-web: 
     status:
@@ -68,7 +68,7 @@ projects:
 
   - title: Online 3D Deformable Object Classification for Mobile Cobot Manipulation
     system-name: 
-    gif: assets/img/demo_online.gif
+    gif: assets/img/test.jpg
     conference: ISR Europe 2023 (Stuttgart, Baden-Wurttemberg, Germany)
     conference-web: https://www.isr-robotics.org/isr
     status: 
@@ -104,7 +104,7 @@ projects:
 
   - title: An Efficient 2D & 3D Perception Software-Hardware Framework for Mobile Cobot
     system-name: ExtPerFC
-    gif: assets/img/demo_extperfc.gif
+    gif: assets/img/test.jpg
     conference: arXiv (06/08/2023)
     conference-web: 
     status: 
@@ -122,7 +122,7 @@ projects:
 
   - title: An Efficient 2D and 3D Perception Software-Hardware Framework for Mobile Cobot
     system-name: PerFC
-    gif: assets/img/demo_perfc.gif
+    gif: assets/img/test.jpg
     conference: FLAIRS-36 (Clearwater Beach, FL, U.S.)
     conference-web: https://www.flairs-36.info/home
     status: 
@@ -140,7 +140,7 @@ projects:
 
   - title: A Battery-free Wearable System with Biocompatible Sensors for Continuous Tree Health Monitoring
     system-name: IoTree
-    gif: assets/img/demo_iotree.gif
+    gif: assets/img/test.jpg
     conference: MobiCom 2022 (Sydney, NSW, Australia)
     conference-web: https://www.sigmobile.org/mobicom/2022/
     status: 
