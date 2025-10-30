@@ -18,7 +18,7 @@ projects:
     conference: 
     conference-web: 
     status:
-    authors:  <u>Li, F.</u>, Wang, R., Chen, G., Mo, Z., Ikegaya, N., & Liu, C. H.
+    authors:  <u>Fei Li</u>, Ruiqi Wang, Guoliang Chen, Ziwei Mo, Naoki Ikegaya, Chun-Ho Liu
     pdf: assets/papers/LiFei2025RealUrban.pdf
     code: 
     demo: 
@@ -27,26 +27,26 @@ projects:
     poster: 
     abstract-less:  
     abstract-more: 
-    tag: turbulence flow
-    category: slam
+    tag: boundary layer flow
+    category: turbulence
 
-  - title: Robust RGB-D SLAM in Dynamic Environments with 3D Semantic Geometry Voting
-    system-name: V3D-SLAM
-    gif: assets/img/test.jpg
-    conference: IROS 2024 (Abu Dhabi, United Arab Emirates)
-    conference-web: https://iros2024-abudhabi.org/
+  - title: Correlations among high-order statistics and low-occurrence wind speeds within a simplified urban canopy based on particle image velocimetry datasets
+    system-name: 
+    gif: assets/img/lf2024correlation.png
+    conference: 
+    conference-web: 
     status:
-    authors: Tuan Dang, <u>Khang Nguyen</u>, Manfred Huber.
-    pdf: https://www.tuandang.info/assets/papers/v3d-slam.pdf
-    code: https://github.com/tuantdang/v3d-slam
-    demo: https://youtu.be/K4RcKrASpqI
-    slides: https://mkhangg.com/assets/slides/iros24a_slides.pdf
-    talk: https://youtu.be/aWGu9Qxow7g
-    poster: https://mkhangg.com/assets/posters/iros24a_poster.pdf
-    abstract-less: Simultaneous localization and mapping (SLAM) in highly dynamic environments is challenging due to the correlation complexity between moving objects and the camera pose. Many methods have been proposed to deal with this problem; however, the moving properties of dynamic objects with a moving camera remain unclear. Therefore, to improve SLAM's performance, 
-    abstract-more: minimizing disruptive events of moving objects with a physical understanding of 3D shapes and dynamics of objects is needed. In this paper, we propose a robust method, V3D-SLAM, to remove moving objects via two lightweight re-evaluation stages, including identifying potentially moving and static objects using a spatial-reasoned Hough voting mechanism and refining static objects by detecting dynamic noise caused by intra-object motions using Chamfer distances as similarity measurements. Through our experiment on the TUM RGB-D benchmark on dynamic sequences with ground-truth camera trajectories, the results show that our methods outperform most other recent state-of-the-art SLAM methods.
-    tag: more_v3d_slam
-    category: slam
+    authors: <u>Fei Li</u>, Chiyoko Hirose, Wei Wang, Chun-Ho Liu, Naoki Ikegaya
+    pdf: assets/papers/lf2024correlation.pdf
+    code: 
+    demo: 
+    slides: 
+    talk: 
+    poster: 
+    abstract-less:  
+    abstract-more: 
+    tag: canopy layer flow
+    category: turbulence
 
   - title: Real-Time 3D Semantic Scene Perception for Egocentric Robots with Binocular Vision
     system-name: 
