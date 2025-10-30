@@ -3,11 +3,11 @@ categories:
   - data-filter: perception manipulation
     category-name: perception + manipulation
 
-  - data-filter: slam
-    category-name: slam
+  - data-filter: turbulence
+    category-name: turbulence
 
-  - data-filter: framework
-    category-name: framework
+  - data-filter: heat
+    category-name: heat
 
 
 projects:
