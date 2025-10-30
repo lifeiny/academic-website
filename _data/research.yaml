@@ -32,7 +32,7 @@ projects:
 
   - title: Robust RGB-D SLAM in Dynamic Environments with 3D Semantic Geometry Voting
     system-name: V3D-SLAM
-    gif: assets/img/dtest.jpg
+    gif: assets/img/test.jpg
     conference: IROS 2024 (Abu Dhabi, United Arab Emirates)
     conference-web: https://iros2024-abudhabi.org/
     status:
@@ -86,7 +86,7 @@ projects:
   
   - title: Multiplanar Self-Calibration for Mobile Cobot 3D Object Manipulation using 2D Detectors and Depth Estimation
     system-name: 
-    gif: assets/img/demo_multiplanar.gif
+    gif: assets/img/test.jpg
     conference: IROS 2023 (Detroit, MI, U.S.)
     conference-web: https://ieee-iros.org/
     status: 
