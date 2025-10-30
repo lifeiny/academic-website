@@ -1,12 +1,12 @@
 # basic information
 name: Fei Li
 profile-pic: assets/img/profile.jpg
-pronunciation: /fi li/
+pronunciation:
 pronunciation-emoji: 🎧
 
 # emoji indicator
-emoji: 🍀
-desc-emoji: four-leaf clover
+emoji: 🐼
+desc-emoji: panda
 
 # social links
 scholar: https://scholar.google.com/citations?user=Z6_5ZTEAAAAJ
@@ -30,13 +30,13 @@ web-dns: lifei.win
 
 # about me
 first-paragraph: I am a PhD student at the <hightlight> HKU </hightlight> (◕▿◕)
-second-paragraph: I grew up in <a href="https://en.wikipedia.org/wiki/Nanyang,_Henan" target="_blank" rel="noopener">Nanyang, China</a>, and was fortunate to spend my most memorable time at the <a href="https://en.wikipedia.org/wiki/VNU-HCM_High_School_for_the_Gifted" target="_blank" rel="noopener">Yexian High School.
+second-paragraph: I grew up in <a href="https://en.wikipedia.org/wiki/Nanyang,_Henan" target="_blank" rel="noopener">Nanyang, China</a>.
 research-introduction: I do research in turbulent flow.
 
 research-interests:
 
   - field: fluid mechanics
-    subfields: turbulence, atmospheric boundary layer flow
+    subfields: turbulence, atmospheric boundary layer flow, signal processing
   
   - field: heat transfer
     subfields: heat
